@@ -12,3 +12,9 @@
 * When completing notes, they should have strikethrough text and become grayed out. Also, they should be moved into the end.
 * When editing notes, the date of note should also be updated altogether with other fields.
 * When deleting notes confirmation should pop up.
+
+## Additional Requirement
+
+* Save and read notes, e.g localStorage
+* Add unit tests to code, e.g Jest
+* Add e2e tests to code, e.g cypress
