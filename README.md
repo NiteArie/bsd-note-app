@@ -1,5 +1,9 @@
 # bsd-note-app (Note App)
 
+## Design
+
+Adobe XD: [https://xd.adobe.com/view/51ec9939-5713-4c13-8580-98d88e91a014-04bf/](https://xd.adobe.com/view/51ec9939-5713-4c13-8580-98d88e91a014-04bf/)
+
 ## Requirement
 
 * The application looks similar to the design and is available for users through a link.
